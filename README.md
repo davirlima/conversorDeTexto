@@ -7,6 +7,6 @@
   <li>Letras de cada palavra intercaladas em maiúsculo e minúsculo</li>
 </ul>
 <h2>Utilizou-se:</h2>
-<img src=>
+<img height="40px" alt ="Logo html" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 <img src=>
 <img src=>
