@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+body{
+    background: #f0f0f0;
+    color: #000000;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 1rem;
+    max-width: 1200px;
+}
+
+h1{
+    font-weight: 700;
+    text-align: center;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    border-bottom: 0.1rem solid #fafafa;
+}
+
+h1 span{
+    color: #3039bd;
+}
+
+.textContainer{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.textContainer textarea{
+    padding: 0.5rem;
+    width: 60%;    
+    max-width: 60%;
+    min-width: 10%;
+    height: 10rem;
+    min-height: 10rem;
+    background: #f1f1f1;
+    border: 0.1rem solid #000000;
+    text-align: justify;
+}
+
+.textContainer textarea:focus{
+    outline: 0;
+    border: 0.1rem solid #3039bd;
+}
+
+.buttonsFunctionContainer{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+button{
+    color: #ffff;
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: #3039bd;
+    padding: 0.3rem;
+    border-radius: 0.6rem;
+    border: 0.15rem solid #0f1566;
+    cursor: pointer;
+    transition: all linear 0.2s;
+}
+
+button:hover{
+    background-color: #0d1dfc;
+}
+.buttonCopyContainer{
+    text-align: center;
+}
+
+.buttonCopy{
+    background-color: #bd3030;
+    border: 0.15rem solid #660f0f;
+}
+
+.buttonCopy:hover{
+    background-color: #fc0d0d;
+}
+
+@media screen and (max-width: 480px) {
+    .buttonsFunctionContainer{
+        flex-direction: column;
+    }
+    .buttonsFunctionContainer button:nth-child(n+2){
+        margin-top: 0.5rem;
+    }
+}
