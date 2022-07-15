@@ -1,5 +1,5 @@
 <h1>Conversor de Texto</h1>
-<p>Está é uma aplicação web que realizar a conversão de textos em quatro formatos diferentes, sendo eles:</p>
+<p>Está é uma aplicação web que realiza a conversão de textos em quatro formatos diferentes, sendo eles:</p>
 <ul>
   <li>Texto todo em maiúsculo;</li>
   <li>texto todo em minúsculo;</li>
@@ -12,3 +12,6 @@
   <img height="40px" alt ="Davi-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank">
   <img height="40px" alt ="Davi-Java Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank">
 </div>
+
+<h2>Acesse a aplicação:</h2>
+<a href="#">url<\a>
