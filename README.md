@@ -6,7 +6,7 @@
   <li>Primeira letra de cada palavra em maiúsculo</li>
   <li>Letras de cada palavra intercaladas em maiúsculo e minúsculo</li>
 </ul>
-<h2>Utilizou-se:</h2>
-<img height="40px" alt ="Logo html" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-<img src=>
-<img src=>
+<h2>Utiizou-se:</h2>
+<img height="40px" alt ="Davi-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank">
+<img height="40px" alt ="Davi-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank">
+<img height="40px" alt ="Davi-Java Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank">
